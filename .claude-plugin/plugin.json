@@ -1,0 +1,25 @@
+{
+  "name": "bharat-trader-skill",
+  "description": "11 agent skills for the Indian stock market: copy the funds and investors you trust, watch NSE filings and insider trades, size every trade to your rupees with real charges, and never place an order without your yes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kshitij Bisht",
+    "url": "https://github.com/KshitijBisht"
+  },
+  "homepage": "https://github.com/KshitijBisht/bharat-trader-skill",
+  "repository": "https://github.com/KshitijBisht/bharat-trader-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "agent-skills",
+    "india",
+    "nse",
+    "bse",
+    "groww",
+    "stock-market",
+    "mutual-funds",
+    "portfolio"
+  ],
+  "skills": "./"
+}

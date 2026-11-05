@@ -1,0 +1,532 @@
+{
+ "as_on_date": "04-Nov-2026",
+ "BULK_DEALS_DATA": [
+  {
+   "buySell": "BUY",
+   "clientName": "GOPANI JIGNESH GUNVANT",
+   "date": "04-Nov-2026",
+   "name": "Ajmera Realty & Inf I Ltd",
+   "qty": "1440000",
+   "remarks": "-",
+   "symbol": "AJMERA",
+   "watp": "139.56"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "CELLO PENS AND STATIONERY PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Ajmera Realty & Inf I Ltd",
+   "qty": "2500000",
+   "remarks": "-",
+   "symbol": "AJMERA",
+   "watp": "141"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "FARADAY TEST AND RESEARCH LAB PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Alpex Solar Limited",
+   "qty": "148000",
+   "remarks": "-",
+   "symbol": "ALPEXSOLAR",
+   "watp": "663.26"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "QE SECURITIES LLP",
+   "date": "04-Nov-2026",
+   "name": "Awfis Space Solutions Ltd",
+   "qty": "453033",
+   "remarks": "-",
+   "symbol": "AWFIS",
+   "watp": "261.33"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Awfis Space Solutions Ltd",
+   "qty": "475096",
+   "remarks": "-",
+   "symbol": "AWFIS",
+   "watp": "261.26"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Awfis Space Solutions Ltd",
+   "qty": "372552",
+   "remarks": "-",
+   "symbol": "AWFIS",
+   "watp": "264.8"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "PLUTUS RESEARCH PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "857951",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "273.54"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "443638",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "275.21"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "1078914",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "275.02"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "ELIXIR EQUITIES PRIVATE LTD",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "410471",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "278.41"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "975488",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "274.18"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "OBSIDIAN INVESTMENT PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "766738",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "272.41"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "2499690",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "274.09"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "BLITZQUANT RESEARCH LLP",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "344186",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "275.03"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "703875",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "274"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "MARWADI CHANDARANA INTERMEDIARIES BROKERS PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "449736",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "263.59"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "MATHISYS QUANTCAP LLP",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "771019",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "276.13"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "IRAGE BROKING SERVICES LLP",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "1013813",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "275.65"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "GRT STRATEGIC VENTURES LLP",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "530660",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "273.22"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "1471719",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "277.59"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "BLS Polymers Limited",
+   "qty": "1724762",
+   "remarks": "-",
+   "symbol": "BLSPOLY",
+   "watp": "276.03"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Commercial Syn Bags Ltd",
+   "qty": "238461",
+   "remarks": "-",
+   "symbol": "COMSYN",
+   "watp": "223.9"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "MOONLIGHT MULTITRADE LLP",
+   "date": "04-Nov-2026",
+   "name": "Empower India Ltd.",
+   "qty": "7951457",
+   "remarks": "-",
+   "symbol": "EMPOWER",
+   "watp": "1.35"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "SHARE INDIA SECURITIES LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Empower India Ltd.",
+   "qty": "8757069",
+   "remarks": "-",
+   "symbol": "EMPOWER",
+   "watp": "1.38"
+  },
+  {
+   "buySell": "BUY",
+   "clientName": "PRATIUS COMMERCIALS PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Fascinate Textiles Ltd",
+   "qty": "76000",
+   "remarks": "-",
+   "symbol": "FASCINATE",
+   "watp": "105.95"
+  }
+ ],
+ "BULK_DEALS": "133",
+ "SHORT_DEALS": "169",
+ "BLOCK_DEALS": "2",
+ "SHORT_DEALS_DATA": [
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "AARTI PHARMALABS LIMITED",
+   "qty": "290",
+   "remarks": null,
+   "symbol": "AARTIPHARM",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ABBOTT INDIA LIMITED",
+   "qty": "18",
+   "remarks": null,
+   "symbol": "ABBOTINDIA",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ADIT BIRL SUN LIF AMC LTD",
+   "qty": "5",
+   "remarks": null,
+   "symbol": "ABSLAMC",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ACC LIMITED",
+   "qty": "25",
+   "remarks": null,
+   "symbol": "ACC",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ACTION CONST EQUIP LTD",
+   "qty": "100",
+   "remarks": null,
+   "symbol": "ACE",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ADANI ENTERPRISES LIMITED",
+   "qty": "36",
+   "remarks": null,
+   "symbol": "ADANIENT",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ADANI GREEN ENERGY LTD",
+   "qty": "15",
+   "remarks": null,
+   "symbol": "ADANIGREEN",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ADANI PORT & SEZ LTD",
+   "qty": "34927",
+   "remarks": null,
+   "symbol": "ADANIPORTS",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ADANI POWER LTD",
+   "qty": "405",
+   "remarks": null,
+   "symbol": "ADANIPOWER",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "AEGIS VOPAK TERMINALS LTD",
+   "qty": "1",
+   "remarks": null,
+   "symbol": "AEGISVOPAK",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "AFFLE (INDIA) LIMITED",
+   "qty": "198",
+   "remarks": null,
+   "symbol": "AFFLE",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "DR AGARWALS HEALTH CARE L",
+   "qty": "230",
+   "remarks": null,
+   "symbol": "AGARWALEYE",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ALIVUS LIFE SCIENCES LTD",
+   "qty": "100",
+   "remarks": null,
+   "symbol": "ALIVUS",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ALKEM LABORATORIES LTD.",
+   "qty": "1",
+   "remarks": null,
+   "symbol": "ALKEM",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "AMAGI MEDIA LABS LIMITED",
+   "qty": "2",
+   "remarks": null,
+   "symbol": "AMAGI",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ANAND RATHI WEALTH LTD",
+   "qty": "16",
+   "remarks": null,
+   "symbol": "ANANDRATHI",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ANGEL ONE LTD",
+   "qty": "2700",
+   "remarks": null,
+   "symbol": "ANGELONE",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "APAR INDUSTRIES LTD.",
+   "qty": "31",
+   "remarks": null,
+   "symbol": "APARINDS",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "APL APOLLO TUBES LTD",
+   "qty": "68",
+   "remarks": null,
+   "symbol": "APLAPOLLO",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "APOLLO MICRO SYSTEMS LTD",
+   "qty": "400",
+   "remarks": null,
+   "symbol": "APOLLO",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+   "qty": "4",
+   "remarks": null,
+   "symbol": "APOLLOHOSP",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "APTUS VALUE HSG FIN I LTD",
+   "qty": "487",
+   "remarks": null,
+   "symbol": "APTUS",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ASHOK LEYLAND LTD",
+   "qty": "189",
+   "remarks": null,
+   "symbol": "ASHOKLEY",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ASTRAL POLY TECHNIK LIMITED",
+   "qty": "54",
+   "remarks": null,
+   "symbol": "ASTRAL",
+   "watp": null
+  },
+  {
+   "buySell": null,
+   "clientName": null,
+   "date": "04-Nov-2026",
+   "name": "ATHER ENERGY LIMITED",
+   "qty": "25",
+   "remarks": null,
+   "symbol": "ATHERENERG",
+   "watp": null
+  }
+ ],
+ "BLOCK_DEALS_DATA": [
+  {
+   "buySell": "BUY",
+   "clientName": "CELLO PENS AND STATIONERY PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Ajmera Realty & Inf I Ltd",
+   "qty": "2500000",
+   "remarks": null,
+   "symbol": "AJMERA",
+   "watp": "141"
+  },
+  {
+   "buySell": "SELL",
+   "clientName": "VALUEQUEST INVESTMENT ADVISORS PRIVATE LIMITED",
+   "date": "04-Nov-2026",
+   "name": "Ajmera Realty & Inf I Ltd",
+   "qty": "2500000",
+   "remarks": null,
+   "symbol": "AJMERA",
+   "watp": "141"
+  }
+ ]
+}

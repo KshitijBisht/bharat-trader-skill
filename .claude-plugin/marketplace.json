@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bharat-trader-skill",
+  "description": "The Bharat Trader skill pack: Indian stock market skills for coding agents",
+  "owner": {
+    "name": "Kshitij Bisht",
+    "url": "https://github.com/KshitijBisht"
+  },
+  "plugins": [
+    {
+      "name": "bharat-trader-skill",
+      "description": "Eleven agent skills for NSE/BSE investing: copy a mutual fund or a superstar investor, watch NSE filings, track insider trades and bulk deals, read results, screen, size trades in rupees with real charges, check risk, place approved orders (paper or Groww), Indian capital-gains tax, price alerts and rebalancing.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/KshitijBisht/bharat-trader-skill"
+    }
+  ]
+}

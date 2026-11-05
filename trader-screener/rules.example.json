@@ -1,0 +1,16 @@
+{
+  "_note": "Fields are whatever the metrics file has. From /trader-analyst: revenue_yoy, net_profit_yoy, eps_yoy, ebitda_margin, net_margin, other_income_share, ttm_eps, ttm_net_margin, pe, earnings_yield, market_cap_cr, price. From a Screener.in CSV export, column names are lower_snake_cased (e.g. 'Return on capital employed' -> return_on_capital_employed).",
+  "rules": [
+    {"field": "revenue_yoy", "op": ">=", "value": 8},
+    {"field": "net_profit_yoy", "op": ">=", "value": 5},
+    {"field": "net_margin", "op": ">=", "value": 8},
+    {"field": "other_income_share", "op": "<=", "value": 20, "missing": "pass"},
+    {"field": "pe", "op": "between", "value": [5, 45], "missing": "pass"}
+  ],
+  "rank": [
+    {"field": "earnings_yield", "weight": 1},
+    {"field": "eps_yoy", "weight": 1},
+    {"field": "net_margin", "weight": 0.5}
+  ],
+  "top": 5
+}

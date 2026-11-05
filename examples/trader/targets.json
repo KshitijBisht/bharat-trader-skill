@@ -1,0 +1,37 @@
+{
+  "source": "Parag Parikh Flexi Cap Fund",
+  "as_of": "2026-09-30",
+  "generated": "2026-11-05T11:00:00+05:30",
+  "targets": [
+    {
+      "symbol": "HDFCBANK",
+      "weight": 26.3,
+      "name": "HDFC Bank Limited",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "POWERGRID",
+      "weight": 19.0,
+      "name": "Power Grid Corporation of India Limited",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "ITC",
+      "weight": 18.63,
+      "name": "ITC Limited",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "COALINDIA",
+      "weight": 18.29,
+      "name": "Coal India Limited",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "weight": 17.78,
+      "name": "ICICI Bank Limited",
+      "isin": "INE090A01021"
+    }
+  ]
+}

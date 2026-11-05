@@ -1,0 +1,89 @@
+{
+  "_note": "Aliases are how each investor's name appears in shareholding patterns (SHP). 'check' is a starting list of symbols where they have been reported at 1% or more; it goes stale, so pass --symbols to check others. Edit freely.",
+  "investors": [
+    {
+      "id": "rekha",
+      "name": "Rekha Jhunjhunwala (and the Rakesh Jhunjhunwala estate / family trusts)",
+      "aliases": ["Rekha Jhunjhunwala", "Rekha Rakesh Jhunjhunwala", "Rakesh Jhunjhunwala",
+                  "Rakesh Radheshyam Jhunjhunwala", "Aryaman Jhunjhunwala Discretionary Trust",
+                  "Aryavir Jhunjhunwala Discretionary Trust", "Nishtha Jhunjhunwala Discretionary Trust",
+                  "Rare Enterprises"],
+      "check": ["TITAN", "METROBRAND", "CRISIL", "STARHEALTH", "NAZARA", "CANBK", "FEDERALBNK", "ESCORTS"]
+    },
+    {
+      "id": "damani",
+      "name": "Radhakishan Damani (and family, Derive / Bright Star)",
+      "aliases": ["Radhakishan Damani", "Radhakishan Shivkishan Damani", "Shrikantadevi Damani",
+                  "Gopikishan Shivkishan Damani", "Derive Trading", "Bright Star Investments",
+                  "Derive Investments"],
+      "check": ["DMART", "VSTIND", "TRENT", "SUNDRMFAST", "BLUEDART", "3MINDIA", "UNITDSPR"]
+    },
+    {
+      "id": "kacholia",
+      "name": "Ashish Kacholia",
+      "aliases": ["Ashish Kacholia", "Ashish Rameshchandra Kacholia", "Bengal Finance and Investment",
+                  "Suryavanshi Commotrade"],
+      "check": []
+    },
+    {
+      "id": "kedia",
+      "name": "Vijay Kedia (Kedia Securities)",
+      "aliases": ["Vijay Kishanlal Kedia", "Vijay Kedia", "Kedia Securities"],
+      "check": []
+    },
+    {
+      "id": "mukul",
+      "name": "Mukul Agrawal",
+      "aliases": ["Mukul Agrawal", "Mukul Mahavir Agrawal", "Mukul Mahavir Prasad Agrawal",
+                  "Param Capital"],
+      "check": []
+    },
+    {
+      "id": "dolly",
+      "name": "Dolly Khanna (and Rajiv Khanna)",
+      "aliases": ["Dolly Khanna", "Dolly Rajiv Khanna", "Rajiv Khanna"],
+      "check": []
+    },
+    {
+      "id": "singhania",
+      "name": "Sunil Singhania (Abakkus)",
+      "aliases": ["Abakkus Emerging Opportunities Fund", "Abakkus Growth Fund", "Abakkus Diversified Alpha Fund",
+                  "Sunil Singhania"],
+      "check": []
+    }
+  ],
+  "funds": [
+    {
+      "id": "PPFCF",
+      "name": "Parag Parikh Flexi Cap Fund",
+      "code": "PPFCF",
+      "auto": true,
+      "page": "https://amc.ppfas.com/downloads/portfolio-disclosure/"
+    },
+    {
+      "id": "PPTSF",
+      "name": "Parag Parikh ELSS Tax Saver Fund",
+      "code": "PPTSF",
+      "auto": true,
+      "page": "https://amc.ppfas.com/downloads/portfolio-disclosure/"
+    },
+    {
+      "id": "HDFC",
+      "name": "HDFC Mutual Fund schemes (e.g. HDFC Flexi Cap)",
+      "auto": false,
+      "page": "https://www.hdfcfund.com/statutory-disclosure/portfolio/monthly-portfolio"
+    },
+    {
+      "id": "SBI",
+      "name": "SBI Mutual Fund schemes",
+      "auto": false,
+      "page": "https://www.sbimf.com/portfolios"
+    },
+    {
+      "id": "AMFI",
+      "name": "Any other AMC: find its 'Portfolio disclosure' page via AMFI",
+      "auto": false,
+      "page": "https://www.amfiindia.com/research-information/other-data/scheme-portfolio"
+    }
+  ]
+}

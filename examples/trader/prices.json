@@ -1,0 +1,60 @@
+{
+  "updated": "2026-11-05T11:00:00+05:30",
+  "quotes": {
+    "HDFCBANK": {
+      "price": 736.7,
+      "prev_close": 725.5,
+      "high": 741.3,
+      "low": 719.25,
+      "volume": 50677695,
+      "delivery_pct": 64.48,
+      "series": "EQ",
+      "time": "2026-11-04T15:30",
+      "source": "nse bhavcopy (end of day)"
+    },
+    "POWERGRID": {
+      "price": 262.05,
+      "prev_close": 259.55,
+      "high": 262.15,
+      "low": 255.35,
+      "volume": 14207015,
+      "delivery_pct": 61.39,
+      "series": "EQ",
+      "time": "2026-11-04T15:30",
+      "source": "nse bhavcopy (end of day)"
+    },
+    "ITC": {
+      "price": 280.0,
+      "prev_close": 273.9,
+      "high": 283.5,
+      "low": 272.1,
+      "volume": 42452845,
+      "delivery_pct": 49.42,
+      "series": "EQ",
+      "time": "2026-11-04T15:30",
+      "source": "nse bhavcopy (end of day)"
+    },
+    "COALINDIA": {
+      "price": 399.65,
+      "prev_close": 408.0,
+      "high": 401.35,
+      "low": 396.05,
+      "volume": 5409205,
+      "delivery_pct": 51.86,
+      "series": "EQ",
+      "time": "2026-11-04T15:30",
+      "source": "nse bhavcopy (end of day)"
+    },
+    "ICICIBANK": {
+      "price": 1424.1,
+      "prev_close": 1424.5,
+      "high": 1438.2,
+      "low": 1412.1,
+      "volume": 10606471,
+      "delivery_pct": 61.5,
+      "series": "EQ",
+      "time": "2026-11-04T15:30",
+      "source": "nse bhavcopy (end of day)"
+    }
+  }
+}

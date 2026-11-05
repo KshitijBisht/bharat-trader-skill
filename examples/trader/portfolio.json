@@ -1,0 +1,41 @@
+{
+  "cash": 2500.0,
+  "positions": {},
+  "lots": [
+    {
+      "symbol": "ITC",
+      "qty": 10,
+      "price": 330.0,
+      "cost": 3308.33,
+      "date": "2025-06-02"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "qty": 3,
+      "price": 810.0,
+      "cost": 2438.31,
+      "date": "2026-02-16"
+    },
+    {
+      "symbol": "INFY",
+      "qty": 3,
+      "price": 1500.0,
+      "cost": 4505.0,
+      "date": "2016-05-10",
+      "fmv_2018": 1100.0
+    }
+  ],
+  "realized": [
+    {
+      "symbol": "TCS",
+      "qty": 1,
+      "buy_date": "2025-01-02",
+      "sell_date": "2026-05-10",
+      "buy_price": 4000.0,
+      "sell_price": 3000.0,
+      "cost": 4010.0,
+      "proceeds": 2970.0,
+      "gain": -1040.0
+    }
+  ]
+}

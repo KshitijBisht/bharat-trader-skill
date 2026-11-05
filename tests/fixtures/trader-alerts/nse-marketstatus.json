@@ -1,0 +1,108 @@
+{
+ "marketState": [
+  {
+   "market": "Capital Market",
+   "marketStatus": "Open",
+   "tradeDate": "05-Nov-2026 12:45",
+   "index": "NIFTY 50",
+   "last": 24434.35,
+   "variation": 473.75,
+   "percentChange": 1.98,
+   "marketStatusMessage": "Normal Market is Open"
+  },
+  {
+   "market": "Currency",
+   "marketStatus": "Open",
+   "tradeDate": "05-Nov-2026",
+   "index": "",
+   "last": "",
+   "variation": "",
+   "percentChange": "",
+   "marketStatusMessage": "Market is Open"
+  },
+  {
+   "market": "Commodity",
+   "marketStatus": "Open",
+   "tradeDate": "05-Nov-2026",
+   "index": "",
+   "last": "",
+   "variation": "",
+   "percentChange": "",
+   "marketStatusMessage": "Market is Open"
+  },
+  {
+   "market": "Debt",
+   "marketStatus": "Open",
+   "tradeDate": "05-Nov-2026",
+   "index": "",
+   "last": "",
+   "variation": "",
+   "percentChange": "",
+   "marketStatusMessage": "Market is Open"
+  },
+  {
+   "index": "NIFTY50 USD",
+   "last": 8968.6,
+   "change": 196.72999999999956,
+   "percentChange": 2.24,
+   "timestamp": "05-Nov-2026 12:45"
+  },
+  {
+   "market": "currencyfuture",
+   "marketStatus": "Open",
+   "tradeDate": "05-Nov-2026",
+   "index": "",
+   "last": "94.5500",
+   "variation": "",
+   "percentChange": "",
+   "marketStatusMessage": "Market is Open",
+   "expiryDate": "26-Nov-2026",
+   "underlying": "USDINR",
+   "updated_time": "05-Nov-2026 12:46",
+   "tradeDateFormatted": "05-Nov-2026 12:46",
+   "slickclass": "slick-item"
+  }
+ ],
+ "marketcap": {
+  "timeStamp": "04-Nov-2026",
+  "marketCapinTRDollars": 5.16,
+  "marketCapinLACCRRupees": 489.6262266578509,
+  "marketCapinCRRupees": 48962622.67,
+  "marketCapinCRRupeesFormatted": "48,962,622.67",
+  "marketCapinLACCRRupeesFormatted": "489.63",
+  "underlying": "Market Cap"
+ },
+ "indicativenifty50": {
+  "change": 149.75,
+  "closingValue": 23960.6,
+  "dateTime": "04-Nov-2026 15:30",
+  "finalClosingValue": 23960.6,
+  "indexLast": null,
+  "indexName": "NIFTY 50",
+  "indexPercChange": null,
+  "indexTimeVal": null,
+  "indicativeTime": null,
+  "perChange": 0.63,
+  "status": "CLOSE"
+ },
+ "giftnifty": {
+  "CONTRACTSTRADED": 52662,
+  "DAYCHANGE": 102.5,
+  "EXPIRYDATE": "23-Nov-2026",
+  "INSTRUMENTTYPE": "FUTIDX",
+  "LASTPRICE": 24476.5,
+  "OPTIONTYPE": "-",
+  "PERCHANGE": 0.42,
+  "STRIKEPRICE": 0,
+  "SYMBOL": "NIFTY",
+  "TIMESTMP": "05-Nov-2026 12:45",
+  "id": "0/NIFTYFUTIDX23-Nov-2026--"
+ },
+ "niftyusd": {
+  "index": "NIFTY50 USD",
+  "last": 8968.6,
+  "change": 196.72999999999956,
+  "percentChange": 2.24,
+  "timestamp": "05-Nov-2026 12:45"
+ }
+}

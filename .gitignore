@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# your working data: portfolio, orders, approvals, caches
+/trader/
+.env
+*.env
